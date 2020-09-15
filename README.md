@@ -1,7 +1,7 @@
 # Predictive Modelling with Azure Machine Learning Studio
-<br>
+
 Welcome to Project: Predictive Modelling with Azure Machine Learning Studio. This is a project-based course which should take approximately 2 hours to complete. Before diving into the project, please take a look at the course objectives and structure:
-<br>
+
 ## Course Objectives
 In this course, we are going to focus on three learning objectives:
 <br>
@@ -22,6 +22,7 @@ By the end of this course, you will be able to train and evaluate a predictive m
 - Task 8: Joining Both Datasets
 - Task 9: Training and Evaluating the Model
 <br>
+
 ![Evaluation results](https://github.com/masedos/Predictive-Modelling-with-Azure-Machine-Learning-Studio/blob/master/Evaluation_results.PNG)
 
 

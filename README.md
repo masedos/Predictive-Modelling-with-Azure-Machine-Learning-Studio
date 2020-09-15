@@ -29,7 +29,7 @@ By the end of this course, you will be able to train and evaluate a predictive m
 ### To access the dataset
 
 #### Weather Dataset.csv
-'''
+```python
 from azureml import Workspace
 ws = Workspace(
     workspace_id='db68414bc7024ab0875349b59784056b',
@@ -38,9 +38,9 @@ ws = Workspace(
 )
 ds = ws.datasets['Weather Dataset.csv']
 frame = ds.to_dataframe()
-'''
+```
 #### Flight Delays Data.csv
-'''
+```python
 from azureml import Workspace
 ws = Workspace(
     workspace_id='db68414bc7024ab0875349b59784056b',
@@ -49,4 +49,4 @@ ws = Workspace(
 )
 ds = ws.datasets['Flight Delays Data.csv']
 frame = ds.to_dataframe()
-'''
+```
